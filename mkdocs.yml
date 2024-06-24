@@ -1,0 +1,5 @@
+site_name: hhhjyz
+site_url: https://hhhjyz.github.io/mymkdocs/
+site_author: 蒋翼泽(hhhjyz)
+theme:
+  name: material
